@@ -2,13 +2,12 @@ import React from 'react';
 import {
     View,
     Text,
-    Image,
-    StatusBar
+    Image
 } from 'react-native';
 
 import IllustrationImg from '../../assets/illustration.png';
 import { styles } from './styles';
-import { ButtonIcon } from '../../components/buttonIcon';
+import { ButtonIcon } from '../../components/button-icon/buttonIcon';
 
 
 export function SignIn() {
