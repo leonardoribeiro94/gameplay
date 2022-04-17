@@ -30,8 +30,8 @@ export function SignIn() {
             <View style={styles.content}>
                 <Text style={styles.title}>a
                     Conecte-se {'\n'}
-                    Organize {'\n'}
-                    suas jogatinas
+                    Organize suas{'\n'}
+                    jogatinas
                 </Text>
                 <Text
                     style={styles.subtitle}>
